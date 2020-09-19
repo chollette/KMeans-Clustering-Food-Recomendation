@@ -8,7 +8,7 @@ There are a number of health deteriorating factors for patients who suffer from 
 This project is targeted to patients who are suffering from multiple killder-diseases and nutritionist who help these patients in finding the right food choices given the complexity of their health conditions.
 
 # Environment
-python3.5.2
+python 3.6.9
 
 Other packages please run:
 pip install -r requirements.txt
